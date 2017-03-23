@@ -6,8 +6,8 @@ Pod::Spec.new do |s|
     s.summary      = 'HDTestPod'
 
     s.platform     =  :ios, '8.0'
-    s.homepage     = "https://github.com/erduoniba/FDDUITableViewDemoSwift"
+    s.homepage     = "https://github.com/erduoniba/HDTestPod.git"
 
-    s.source       =  { :git => 'https://github.com/erduoniba/FDDUITableViewDemoSwift.git', :tag => "#{s.version}"}
+    s.source       =  { :git => 'https://github.com/erduoniba/HDTestPod.git', :tag => "#{s.version}"}
     s.module_name  = 'HDTestPod'
 end
