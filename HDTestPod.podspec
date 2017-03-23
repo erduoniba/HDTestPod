@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = 'HDTestPod'
-    s.version      = "0.1.2"
+    s.version      = "0.0.1"
     s.license      = { :type => 'MIT', :file => 'LICENSE' }
     s.author       = { 'denglibing' => 'denglibing@fangdd.com' }
     s.summary      = 'HDTestPod'
