@@ -9,5 +9,6 @@ Pod::Spec.new do |s|
     s.homepage     = "https://github.com/erduoniba/HDTestPod.git"
 
     s.source       =  { :git => 'https://github.com/erduoniba/HDTestPod.git', :tag => "#{s.version}"}
+    s.source_files = '*.{h,m,swift}'
     s.module_name  = 'HDTestPod'
 end
