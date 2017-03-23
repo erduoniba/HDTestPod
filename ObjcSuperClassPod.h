@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface ObjcSuperClassPod.h : NSObject
+@interface ObjcSuperClassPod : NSObject
 
 @end
